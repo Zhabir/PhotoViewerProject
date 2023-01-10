@@ -1,0 +1,160 @@
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\sasasasass\source\repos\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\поворотPictureBox\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\-PictureBox-master\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.Crop.resources
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\user\Desktop\-PictureBox-and-and-another\поворотPictureBox\obj\Debug\поворотPictureBox.AddText.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.AddText.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Crop.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Buffers.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Memory.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Json.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.ValueTuple.dll
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Buffers.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Memory.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Json.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\bin\Debug\System.ValueTuple.xml
+C:\Users\Ляля Колоббок\Desktop\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CopyComplete
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Buffers.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Memory.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Json.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.ValueTuple.dll
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Buffers.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Memory.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Text.Json.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\bin\Debug\System.ValueTuple.xml
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.AddText.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Crop.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CopyComplete
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\zhabi\OneDrive\Рабочий стол\Фоторедактор\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\поворотPictureBox.exe.config
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Buffers.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Memory.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Text.Json.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.ValueTuple.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Buffers.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Memory.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Text.Json.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\System.ValueTuple.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.AssemblyReference.cache
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.AddText.resources
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.Collages.resources
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.Crop.resources
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.Form1.resources
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.Properties.Resources.resources
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.GenerateResource.cache
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CoreCompileInputs.cache
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.csproj.CopyComplete
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.exe
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\obj\Debug\поворотPictureBox.pdb
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Microsoft.AspNetCore.JsonPatch.xml
+C:\Users\Ляля Колоббок\Desktop\-PictureBox-withoutjsonyet\поворотPictureBox\bin\Debug\Newtonsoft.Json.xml
